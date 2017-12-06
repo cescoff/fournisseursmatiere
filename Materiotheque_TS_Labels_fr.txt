@@ -1,5 +1,5 @@
 dealers.form.name=Annuaire fournisseurs matière TechShop
 dealers.form.title=Mes Dealers de matière
-dealers.form.description=<p>Ce formulaire va permettre d'établir une liste de fournisseurs.</p><p>Ne vous posez surtout pas la question de savoir si quelqu'un a déjà renseigné votre fournisseur préféré, contentez-vous de le renseigner, on s'occupera des doublons.</p><p>Concernant les catégories, il ne faut surtout pas cocher des cases si vous n'êtes pas certain que votre fournisseur dispose bien de produits dans cette catégorie. Mieux vaut de l'information juste que fausse</p>
+dealers.form.description=Ce formulaire va permettre d'établir une liste de fournisseurs. Ne vous posez surtout pas la question de savoir si quelqu'un a déjà renseigné votre fournisseur préféré, contentez-vous de le renseigner, on s'occupera des doublons. Concernant les catégories, il ne faut surtout pas cocher des cases si vous n'êtes pas certain que votre fournisseur dispose bien de produits dans cette catégorie. Mieux vaut de l'information juste que fausse
 dealers.form.dealer.name.textbox=Le nom de votre fournisseur*
 dealers.form.dealer.siteurl.textbox=Le site internet (si il y en a un)
